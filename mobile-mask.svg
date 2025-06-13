@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 1 1">
+  <defs>
+    <mask id="svg-mask-avatar-status-mobile-80" maskContentUnits="objectBoundingBox" viewBox="0 0 1 1">
+      <circle fill="white" cx="0.5" cy="0.5" r="0.5" />
+      <rect fill="black" x="0.675" y="0.575" width="0.35" height="0.45" rx="0.09" ry="0.09" />
+    </mask>
+  </defs>
+</svg>
