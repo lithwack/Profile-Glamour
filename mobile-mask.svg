@@ -4,5 +4,5 @@
   
   <!-- Mask shapes rendered as normal shapes -->
   <circle fill="black" cx="0.5" cy="0.5" r="0.5" />
-  <rect fill="white" x="0.675" y="0.575" width="0.35" height="0.45" rx="0.09" ry="0.09" />
+  <rect fill="white" x="0.675" y="0.575" width="0.3" height="0.4" rx="0.09" ry="0.09" />
 </svg>
